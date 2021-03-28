@@ -1,0 +1,132 @@
+
+.ferrari{
+position: fixed;
+top: 580px;
+left: 100px;
+}
+.lambo{
+position: fixed;
+top: 575px;
+left: 900px;
+}
+.aston{
+position: fixed;
+top: 380px;
+left: 100px;
+}
+.Bugatti{
+position: fixed;
+top: 380px;
+left: 1200px;
+}
+.audi{
+position: fixed;
+top: 360px;
+left: 365px;
+}
+.bently{
+position: fixed;
+top: 340px;
+left: 665px;
+}
+.bmw{
+position: fixed;
+top: 370px;
+left: 965px;
+}
+.chevrolet{
+position: fixed;
+top: 370px;
+left: 1400px;
+}
+.fiat{
+position: fixed;
+top: 575px;
+left: 400px;
+}
+.ford{
+position: fixed;
+top: 575px;
+left: 665px;
+}
+.landrover{
+position: fixed;
+top: 565px;
+left: 1145px;
+}
+.mclaren{
+position: fixed;
+top: 575px;
+left: 1400px;
+}
+.mercedes{
+position: fixed;
+top: 750px;
+left: 50px;
+}
+.mini{
+position: fixed;
+top: 750px;
+left: 340px;
+}
+.nissan{
+position: fixed;
+top: 750px;
+left: 700px;
+}
+.pagani{
+position: fixed;
+top: 700px;
+left: 925px;
+}
+.grey{
+position: fixed;
+top: 340px;
+}
+.renault{
+position: fixed;
+top: 750px;
+left: 1200px;
+}
+.tesla{
+position: fixed;
+top: 750px;
+left: 1450px;
+}
+.arrow{
+position: fixed;
+top: 840px;
+left: 900px;
+}
+.toyota{
+position: fixed;
+top: 380px;
+left: 40px;
+}
+.volkswagen{
+position: fixed;
+top: 350px;
+left: 250px;
+}
+.volvo{
+position: fixed;
+top: 350px;
+left: 590px;
+}
+.previous{
+position: fixed;
+top: 840px;
+left: 900px;
+}
+.logo{
+position: fixed;
+top: -250px;
+left: 400px;
+}
+.welcome{
+position= absolute;
+top: 250px;
+left: 400px;
+}
+
+
